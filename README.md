@@ -4,6 +4,8 @@ You can generate your own personalized Blog Post!
 
 #STEPS:
 
+** Important: you need to create another file called "apikey.py" and use: aistudio.google.com to generate your own API, and use with the code I provided.**
+
 1. download the files.
 2. open your command prompt and open the directory of the files that you downloaded in step 1
 3. type in "streamlit run app.py"
